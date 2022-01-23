@@ -11,3 +11,9 @@ h3{
     align-items: center;
     justify-content: center;
 }
+.image-slider{
+    padding-top: 50px;
+}
+.hot-offer{
+    border-radius: 20px;
+}

@@ -1,9 +1,11 @@
 h5{
-    font-size: 30px;
-    font-weight: ;
+    font-size: 50px;
+   
+    font-weight: 700;
 }
 body{
     font-family: Arial, Helvetica, sans-serif;
+
 }
 h3{
     padding-top: 100px;
@@ -16,4 +18,9 @@ h3{
 }
 .hot-offer{
     border-radius: 20px;
+}
+a{
+    text-decoration: none;
+    color: blanchedalmond;
+    font-weight: 700;
 }

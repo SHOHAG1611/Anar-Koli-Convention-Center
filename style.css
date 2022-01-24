@@ -14,7 +14,7 @@ h3{
     justify-content: center;
 }
 .image-slider{
-    padding-top: 50px;
+    padding-top: 10px;
 }
 .hot-offer{
     border-radius: 20px;
@@ -28,8 +28,3 @@ w-lg-50 w-100
 body{
     overflow-x: hidden;
 }
-nav{
-    margin-top: 20px;
-}
-w-lg-50 w-100 cols-sm-12
-w-lg-50 w-100 cols-sm-12
